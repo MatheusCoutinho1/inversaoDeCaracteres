@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\InversãoDeCaracteres\InversãoDeCaracteres\bin\Debug\net6.0\InversãoDeCaracteres.exe
+C:\Users\Matheus\Desktop\InversãoDeCaracteres\InversãoDeCaracteres\bin\Debug\net6.0\InversãoDeCaracteres.deps.json
+C:\Users\Matheus\Desktop\InversãoDeCaracteres\InversãoDeCaracteres\bin\Debug\net6.0\InversãoDeCaracteres.runtimeconfig.json
+C:\Users\Matheus\Desktop\InversãoDeCaracteres\InversãoDeCaracteres\bin\Debug\net6.0\InversãoDeCaracteres.dll
+C:\Users\Matheus\Desktop\InversãoDeCaracteres\InversãoDeCaracteres\bin\Debug\net6.0\InversãoDeCaracteres.pdb
+C:\Users\Matheus\Desktop\InversãoDeCaracteres\InversãoDeCaracteres\obj\Debug\net6.0\InversãoDeCaracteres.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\InversãoDeCaracteres\InversãoDeCaracteres\obj\Debug\net6.0\InversãoDeCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\InversãoDeCaracteres\InversãoDeCaracteres\obj\Debug\net6.0\InversãoDeCaracteres.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\InversãoDeCaracteres\InversãoDeCaracteres\obj\Debug\net6.0\InversãoDeCaracteres.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\InversãoDeCaracteres\InversãoDeCaracteres\obj\Debug\net6.0\InversãoDeCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\InversãoDeCaracteres\InversãoDeCaracteres\obj\Debug\net6.0\InversãoDeCaracteres.dll
+C:\Users\Matheus\Desktop\InversãoDeCaracteres\InversãoDeCaracteres\obj\Debug\net6.0\refint\InversãoDeCaracteres.dll
+C:\Users\Matheus\Desktop\InversãoDeCaracteres\InversãoDeCaracteres\obj\Debug\net6.0\InversãoDeCaracteres.pdb
+C:\Users\Matheus\Desktop\InversãoDeCaracteres\InversãoDeCaracteres\obj\Debug\net6.0\InversãoDeCaracteres.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\InversãoDeCaracteres\InversãoDeCaracteres\obj\Debug\net6.0\ref\InversãoDeCaracteres.dll
